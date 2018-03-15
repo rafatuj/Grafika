@@ -1,0 +1,16 @@
+﻿  Zadanie1.cpp
+c:\users\user\documents\visual studio 2015\ath\grafika\zajecia 3\zadanie1\zadanie1\zadanie1.cpp(53): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\user\documents\visual studio 2015\ath\grafika\zajecia 3\zadanie1\zadanie1\zadanie1.cpp(156): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\user\documents\visual studio 2015\ath\grafika\zajecia 3\zadanie1\zadanie1\zadanie1.cpp(161): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+c:\users\user\documents\visual studio 2015\ath\grafika\zajecia 3\zadanie1\zadanie1\zadanie1.cpp(222): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\user\documents\visual studio 2015\ath\grafika\zajecia 3\zadanie1\zadanie1\zadanie1.cpp(224): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\user\documents\visual studio 2015\ath\grafika\zajecia 3\zadanie1\zadanie1\zadanie1.cpp(226): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\user\documents\visual studio 2015\ath\grafika\zajecia 3\zadanie1\zadanie1\zadanie1.cpp(228): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\user\documents\visual studio 2015\ath\grafika\zajecia 3\zadanie1\zadanie1\zadanie1.cpp(342): warning C4566: character represented by universal-character-name '\u0142' cannot be represented in the current code page (1252)
+c:\users\user\documents\visual studio 2015\ath\grafika\zajecia 3\zadanie1\zadanie1\zadanie1.cpp(342): warning C4566: character represented by universal-character-name '\u0119' cannot be represented in the current code page (1252)
+c:\users\user\documents\visual studio 2015\ath\grafika\zajecia 3\zadanie1\zadanie1\zadanie1.cpp(388): warning C4566: character represented by universal-character-name '\u0142' cannot be represented in the current code page (1252)
+c:\users\user\documents\visual studio 2015\ath\grafika\zajecia 3\zadanie1\zadanie1\zadanie1.cpp(401): warning C4566: character represented by universal-character-name '\u0119' cannot be represented in the current code page (1252)
+c:\users\user\documents\visual studio 2015\ath\grafika\zajecia 3\zadanie1\zadanie1\zadanie1.cpp(401): warning C4566: character represented by universal-character-name '\u0105' cannot be represented in the current code page (1252)
+c:\users\user\documents\visual studio 2015\ath\grafika\zajecia 3\zadanie1\zadanie1\zadanie1.cpp(402): warning C4566: character represented by universal-character-name '\u0105' cannot be represented in the current code page (1252)
+c:\users\user\documents\visual studio 2015\ath\grafika\zajecia 3\zadanie1\zadanie1\zadanie1.cpp(404): warning C4566: character represented by universal-character-name '\u015B' cannot be represented in the current code page (1252)
+  Zadanie1.vcxproj -> C:\Users\User\Documents\Visual Studio 2015\ATH\Grafika\zajecia 3\Zadanie1\Debug\Zadanie1.exe
